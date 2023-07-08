@@ -67,7 +67,8 @@
     
 } */
 #sale{
-    background-image: url("/Users/snehajha/ecommerce/salebackground.jpeg");
+    background-image: url("salebackground.jpeg");
+    
     height:87vh;
     width:100%;
     margin-top:0%;
@@ -110,7 +111,7 @@
     font-style:
 }
 #women{
-    background-image: url("/Users/snehajha/ecommerce/women.webp");
+    background-image: url("women.webp");
     height:90vh;
     width:100%;
     background-size: cover;
